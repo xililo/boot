@@ -1,0 +1,19 @@
+.bg-purple {
+ background-color: purple;
+}
+.text-maroon {
+    color: maroon;
+}
+.text-green {
+    color: green;
+}
+.text-yellow {
+    color: yellow;
+}
+.border-purple {
+    border-color: purple !important;
+}
+.border-20 {
+    border-width: 50px !important;
+}
+

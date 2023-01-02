@@ -1,0 +1,37 @@
+.menu-item {
+    text-decoration: none;
+    color: rgb(2, 2, 87);
+    font-weight: 800;
+    padding: 1px 5px;
+}
+.menu-item:hover {
+    text-decoration: underline;
+}
+.h-60-vh {
+    height: 60vh;
+}
+.img-hero {
+    object-fit: cover;
+}
+.hero-words {
+    position: relative;
+    top: -100%;
+    color: white;
+    display: flex;
+    align-items: center ;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* background-image: linear-gradient(deg,c1,c2,c3...); */
+    
+}
+.small-line {
+    position: relative;
+    top: 3px;
+}
+.play-btn {
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
